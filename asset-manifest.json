@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbhishekSingh562/feedback-app/static/css/main.fa72ae7b.css",
+    "main.js": "/AbhishekSingh562/feedback-app/static/js/main.f861f283.js",
+    "index.html": "/AbhishekSingh562/feedback-app/index.html",
+    "main.fa72ae7b.css.map": "/AbhishekSingh562/feedback-app/static/css/main.fa72ae7b.css.map",
+    "main.f861f283.js.map": "/AbhishekSingh562/feedback-app/static/js/main.f861f283.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa72ae7b.css",
+    "static/js/main.f861f283.js"
+  ]
+}
